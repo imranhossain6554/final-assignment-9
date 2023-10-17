@@ -1,0 +1,224 @@
+[
+  {
+    "id": 1,
+    "title": "Double Room",
+    "address": "Los Angeles",
+    "country": "Italy",
+    "category": "double-room",
+    "price": "6000",
+    "bed": "3 bed",
+    "guest": "8",
+    "userEmail": "sahara@gmail.com",
+    "availability": {
+      "availableRooms": 15,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "12:00 PM"
+    },
+    "contact": "017464653",
+    "images": "https://i.ibb.co/hfNZF3f/double-room.jpg",
+    "description": "Double Room is a comfortable and spacious accommodation option offered by our hotel. These rooms are designed to provide a relaxing and enjoyable stay for our guests. With elegant and modern decor, our Double Rooms are equipped with two cozy double beds, making them ideal for couples or travelers looking for extra space. Each room is thoughtfully designed with your comfort in mind.",
+    "reviews": [],
+    "roomFacilities": [
+      "Free Wi-fi",
+      "Fitness center",
+      "Flat television",
+      "Air condition"
+    ],
+    "hotelsFacilities": [
+      "Buffet breakfast as per the Itinerary",
+      "Visit eight villages showcasing Polynesian culture",
+      "Complimentary Camel safari, Bonfire",
+      "All toll tax, parking, fuel, and driver allowances",
+      "Comfortable and hygienic vehicle"
+    ],
+    "ratings": {
+      "averageRating": 4.2,
+      "totalReviews": 80
+    }
+  },
+  {
+    "id": 2,
+    "title": "Family Room",
+    "address": "Los Angeles",
+    "country": "Italy",
+    "category": "family-room",
+    "price": "7000",
+    "bed": "4 bed",
+    "guest": "12",
+    "userEmail": "sahara@gmail.com",
+    "availability": {
+      "availableRooms": 15,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "12:00 PM"
+    },
+    "contact": "017464653",
+    "images": "https://i.ibb.co/b27T4KL/family.jpg",
+    "description": "A Family Room is the perfect choice for families or groups of travelers seeking spacious and comfortable accommodations. Our Family Rooms are designed to provide a home away from home, allowing you to relax and make the most of your stay.",
+    "reviews": [],
+    "roomFacilities": [
+      "Free Wi-fi",
+      "Fitness center",
+      "Flat television",
+      "Air condition"
+    ],
+    "hotelsFacilities": [
+      "Buffet breakfast as per the Itinerary",
+      "Visit eight villages showcasing Polynesian culture",
+      "Complimentary Camel safari, Bonfire",
+      "All toll tax, parking, fuel, and driver allowances",
+      "Comfortable and hygienic vehicle"
+    ],
+    "ratings": {
+      "averageRating": 4.2,
+      "totalReviews": 80
+    }
+  },
+  {
+    "id": 3,
+    "title": "Luxury Room",
+    "address": "Los Angeles",
+    "country": "Italy",
+    "category": "luxury-room",
+    "price": "8000",
+    "bed": "3 bed",
+    "guest": "4",
+    "userEmail": "sahara@gmail.com",
+    "availability": {
+      "availableRooms": 15,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "12:00 PM"
+    },
+    "contact": "017464653",
+    "images": "https://i.ibb.co/P5R8JGY/luxiry-room.jpg",
+    "description": "A Luxury Room is the epitome of opulence and sophistication, designed to provide an exquisite and indulgent experience for the most discerning travelers. These rooms offer a lavish and spacious retreat, where every detail is carefully considered to ensure your stay is nothing short of extraordinary.",
+    "reviews": [],
+    "roomFacilities": [
+      "Free Wi-fi",
+      "Fitness center",
+      "Flat television",
+      "Air condition"
+    ],
+    "hotelsFacilities": [
+      "Buffet breakfast as per the Itinerary",
+      "Visit eight villages showcasing Polynesian culture",
+      "Complimentary Camel safari, Bonfire",
+      "All toll tax, parking, fuel, and driver allowances",
+      "Comfortable and hygienic vehicle"
+    ],
+    "ratings": {
+      "averageRating": 4.2,
+      "totalReviews": 80
+    }
+  },
+  {
+    "id": 4,
+    "title": "Standard Room",
+    "address": "Los Angeles",
+    "country": "Italy",
+    "category": "standard-room",
+    "price": "4000",
+    "bed": "4 bed",
+    "guest": "6",
+    "userEmail": "sahara@gmail.com",
+    "availability": {
+      "availableRooms": 15,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "12:00 PM"
+    },
+    "contact": "017464653",
+    "images": "https://i.ibb.co/fFSsSmD/standered-room.jpg",
+    "description": "A Standard Room is a comfortable and practical choice for travelers seeking a cozy and cost-effective place to stay. These rooms are designed to offer a comfortable and convenient stay without unnecessary frills, making them an excellent option for both business and leisure travelers.",
+    "reviews": [],
+    "roomFacilities": [
+      "Free Wi-fi",
+      "Fitness center",
+      "Flat television",
+      "Air condition"
+    ],
+    "hotelsFacilities": [
+      "Buffet breakfast as per the Itinerary",
+      "Visit eight villages showcasing Polynesian culture",
+      "Complimentary Camel safari, Bonfire",
+      "All toll tax, parking, fuel, and driver allowances",
+      "Comfortable and hygienic vehicle"
+    ],
+    "ratings": {
+      "averageRating": 4.2,
+      "totalReviews": 80
+    }
+  },
+  {
+    "id": 5,
+    "title": "Superior Room",
+    "address": "Los Angeles",
+    "country": "Italy",
+    "category": "superior-room",
+    "price": "6000",
+    "bed": "4 bed",
+    "guest": "6",
+    "userEmail": "sahara@gmail.com",
+    "availability": {
+      "availableRooms": 15,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "12:00 PM"
+    },
+    "contact": "017464653",
+    "images": "https://i.ibb.co/1TqKkKR/superiro-room.jpg",
+    "description": "A Superior Room is a step above the standard offering, providing guests with a more spacious and well-appointed accommodation option. These rooms are designed to offer a higher level of comfort and convenience, making them an excellent choice for travelers looking for a bit more luxury during their stay.",
+    "reviews": [],
+    "roomFacilities": [
+      "Free Wi-fi",
+      "Fitness center",
+      "Flat television",
+      "Air condition"
+    ],
+    "hotelsFacilities": [
+      "Buffet breakfast as per the Itinerary",
+      "Visit eight villages showcasing Polynesian culture",
+      "Complimentary Camel safari, Bonfire",
+      "All toll tax, parking, fuel, and driver allowances",
+      "Comfortable and hygienic vehicle"
+    ],
+    "ratings": {
+      "averageRating": 4.2,
+      "totalReviews": 80
+    }
+  },
+  {
+    "id": 6,
+    "title": "Common Room",
+    "address": "Los Angeles",
+    "country": "Italy",
+    "category": "common-room",
+    "price": "3000",
+    "bed": "3 bed",
+    "guest": "5",
+    "userEmail": "sahara@gmail.com",
+    "availability": {
+      "availableRooms": 15,
+      "checkInTime": "3:00 PM",
+      "checkOutTime": "12:00 PM"
+    },
+    "contact": "017464653",
+    "images": "https://i.ibb.co/HptW0bK/common-room.jpg",
+    "description": "A Common Room, often referred to as a shared or communal room, is a flexible and cost-effective accommodation option for travelers who value social interaction and shared spaces. These rooms are designed to offer budget-conscious travelers a convenient and communal place to stay while providing essential amenities and a sense of community.",
+    "reviews": [],
+    "roomFacilities": [
+      "Free Wi-fi",
+      "Fitness center",
+      "Flat television",
+      "Air condition"
+    ],
+    "hotelsFacilities": [
+      "Buffet breakfast as per the Itinerary",
+      "Visit eight villages showcasing Polynesian culture",
+      "Complimentary Camel safari, Bonfire",
+      "All toll tax, parking, fuel, and driver allowances",
+      "Comfortable and hygienic vehicle"
+    ],
+    "ratings": {
+      "averageRating": 4.2,
+      "totalReviews": 80
+    }
+  }
+]

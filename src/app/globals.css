@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+/* banner section */
+.banner-section {
+  background: rgb(109, 194, 127);
+  background: linear-gradient(
+    0deg,
+    rgba(109, 194, 127, 1) 2%,
+    rgba(36, 196, 214, 1) 100%
+  );
+  height: 100vh;
+  padding: 20px 30px;
+}
+
+/* about part start */
+.about_section {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+  margin: 60px 0;
+  background-color: #691717;
+  width: 100%;
+}
+.about_us_right img {
+  width: 100%;
+  height: 520px;
+}
+.about_section h5 {
+  font-size: 25px;
+
+  margin: 20px 0;
+}
+.about_section h2 {
+  font-size: 30px;
+
+  margin: 20px 0;
+}
+.about_section p {
+  font-size: 18px;
+
+  margin: 20px 0;
+}
+
+.about_service_section {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+  margin: 18px 0;
+}
+.about_service_div,
+.review-div {
+  padding: 20px 15px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 8px;
+}
+.about_service_boxed h5 a {
+  font-size: 20px;
+  color: #8b3eea;
+}
+.about_service_boxed p {
+  font-size: 18px;
+}
+/* about part end */
+
+/* Welcome section */
+#welcome-section {
+  overflow: hidden;
+}
+#welcome-section .welcome-img-part {
+  position: relative;
+}
+#welcome-section .hotelTwoImg {
+  position: absolute;
+  top: -30px;
+  left: 70%;
+}
