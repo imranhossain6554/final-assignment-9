@@ -21,30 +21,31 @@ const facilities = [
 
 const Facilities = () => {
   return (
-    <div>
-      <div className="flex flex-col md:flex-row p-4">
-        {/* Left Column - Facilities Categories and Icons */}
-        <div className="md:w-1/2 p-4">
-          <h4 className="text-green">Facilities</h4>
-          <h2>Core Facilities</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mt-4">
-            {facilities.map((faci) => (
-              <>
-                <div className="single-facilities text-center my-4">
-                  <Image src={faci.icon} width={60} height={60} alt="icon" />
-                  <h4>{faci.name}</h4>
-                </div>
-              </>
-            ))}
-          </div>
-          {/* Add icons for each facility here */}
+    <div className="flex flex-col lg:flex-row justify-center items-center ">
+      <div className="md:w-1/2 p-4 text-center">
+        <h4 className="text-green ">Facilities</h4>
+        <h2>Core Facilities</h2>
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mt-4">
+          {facilities.map((faci) => (
+            <>
+              <div className="single-facilities text-center my-4">
+                <Image src={faci.icon} width={60} height={60} alt="icon" />
+                <h4>{faci.name}</h4>
+              </div>
+            </>
+          ))}
         </div>
+      </div>
 
-        {/* Right Column - Hotel Images */}
-        <div className="md:w-1/2 p-4">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <Image src={fac} alt="facilities" width={600} height={400} />
-          </div>
+      <div className="p-4">
+        <div className="">
+          <Image
+            src={fac}
+            alt="facilities"
+            width={600}
+            height={400}
+            className="hidden lg:block md:block"
+          />
         </div>
       </div>
     </div>

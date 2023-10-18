@@ -11,21 +11,25 @@ const Welcome = () => {
         <div className="container mx-auto py-10">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div className="bg-white rounded-lg p-4">
-              <h2 className="text-xl font-semibold mb-2">Accommodations</h2>
+              <h2 className="text-xl font-semibold mb-2 text-blue-400">
+                Accommodations
+              </h2>
 
               <h2>Welcome Our Hotels And Resorts</h2>
-              <p>
-                Savvy travelers are looking for more than just the next
-                destination on the map. They are looking for a memorable
-                experience and to make new friends along the way.
-              </p>
-              <p>
-                At vero eos et accusam et justo duo dolores et ea rebum. Stet
-                clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
-                dolor sit amet. Lorem ipsum dolor sit amet, consetetur
-                sadipscing elitr{" "}
-              </p>
-              <a href="tour-search.html" className="btn btn_theme btn_md">
+              <div className="py-5">
+                <p>
+                  Savvy travelers are looking for more than just the next
+                  destination on the map. They are looking for a memorable
+                  experience and to make new friends along the way.
+                </p>
+                <p>
+                  At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                  clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+                  dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+                  sadipscing elitr{" "}
+                </p>
+              </div>
+              <a href="tour-search.html" className="btn btn_theme btn_md ">
                 <Button type="primary">Find tours</Button>
               </a>
             </div>

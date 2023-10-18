@@ -1,10 +1,9 @@
-export interface IBooks {
-    _id: number;
-    title: string;
-    img: string;
-    author: string;
-    genre: string;
-    publication_date: string;
-    reviews?: string[];
-  }
-  
+export interface IHotels {
+  _id: number;
+  title: string;
+  images: string;
+  author: string;
+  price: string;
+  publication_date: string;
+  reviews?: string[];
+}
